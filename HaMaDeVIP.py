@@ -1,6 +1,5 @@
-#Encrypted By kurdistan007
-#Github : https://github.com/kurdistan007/
-#Do not edit the script to avoid errors
+#VIP TOOL FOR CRACKING FB
+#CREATED BY HAMA DEV
 from collections import OrderedDict
 exec("".join(map(chr,[int("".join(str(OrderedDict([('HaMaDeV', 0), ('1', 1), ('2', 2), ('3', 3), ('4', 4), ('5', 5), ('6', 6), ('7', 7), ('8', 8), ('9', 9)])[i]) for i in x.split())) for x in
 "3 5  3 3  4 7  1 1 7  1 1 5  1 1 4  4 7  9 8  1 HaMaDeV 5  1 1 HaMaDeV\
